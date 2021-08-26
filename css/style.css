@@ -1,0 +1,12 @@
+.comments_section .row {
+  margin-top: 30px;
+}
+
+.comments_section .template {
+  display: none;
+}
+
+.comment__author {
+  display: block;
+  margin-bottom: 10px;
+}
